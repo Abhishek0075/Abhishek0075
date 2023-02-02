@@ -1,7 +1,5 @@
-# :bust_in_silhouette: Abhishek P - @Abhishek0075
-<h2>Hey 👋 , I am Abhishek </h2> 
-
-<!-- ### Backend Developer specializing in secure, reliable and scalable APIs. With a keen interest in UI design and minimal front-end development. Dedicated to building and monetizing products that solve problems faced by a wide range of people, using technology to make a positive impact and drive social change. -->
+# :raising_hand: Abhishek P - @Abhishek0075
+<h2>Hey, I am Abhishek👋</h2> 
 
 
 ## Skills
@@ -9,8 +7,8 @@
 
 ## Let us talk
 <p align="left">
-<a href="https://twitter.com/itsabhishekp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulhakkeempa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishekp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hakkeem-pa" height="30" width="40" /></a>
+<a href="https://twitter.com/itsabhishekp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishekp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi_shek.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hakkeem_" height="30" width="40" /></a>
 </p>
 
@@ -20,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Abhishek0075&count_private=true&show_icons=true&theme=cobalt&hide_border=true)
 
 ## GitHub Streaks
-![](https://github-readme-streak-stats.herokuapp.com?user=abdulhakkeempa&theme=github-dark-blue&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=Abhishek0075&theme=github-dark-blue&hide_border=true)
 
 
 ## GitHub Activity
