@@ -7,8 +7,7 @@
 
 ## Let us talk
 <p align="left">
-<a href="https://twitter.com/itsabhishekp100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Abhishek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhishekp100" target="blank"><img align="center" src="LinkedIn_Logo_2013_(2)" alt="Abhishek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishekp100" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Abhishek" height="50" width="60" /></a>
 <a href="https://instagram.com/abhi_shek.p" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="abhi_shek.p" height="50" width="50" /></a>
 </p>
 
