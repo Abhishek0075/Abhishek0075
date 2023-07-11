@@ -14,7 +14,6 @@
 ## :octocat: GitHub Stats
 ![](https://komarev.com/ghpvc/?username=Abhishek0075&color=blue&style=for-the-badge)  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek0075&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api?username=Abhishek0075&count_private=true&show_icons=true&theme=cobalt&hide_border=true)
 
 ## GitHub Streaks
 ![](https://github-readme-streak-stats.herokuapp.com?user=Abhishek0075&theme=github-dark-blue&hide_border=true)
